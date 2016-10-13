@@ -1,6 +1,6 @@
 # Analytics on A Song of Ice and Fire
 
-In this workshop, participants are taught how to get data from [goodreads]() and do some basic analytics on the data - using `R`
+In this workshop, participants are taught how to get data from [goodreads](https://www.goodreads.com/) and do some basic analytics on the data - using `R`
 
 ### Agenda:
 
@@ -16,10 +16,10 @@ In this workshop, participants are taught how to get data from [goodreads]() and
 
 1. Browser - Firefox or Chrome  
 2. R Packages  
-  a. `dplyr`
-  b. `tidyr`
-  c. `rvest`
-  d. `RSelenium`
-  e. `readr`
-  f. `ggplot2`
+  a. `dplyr`  
+  b. `tidyr`  
+  c. `rvest`  
+  d. `RSelenium`  
+  e. `readr`  
+  f. `ggplot2`  
   
