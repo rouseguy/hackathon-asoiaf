@@ -14,8 +14,11 @@ In this workshop, participants are taught how to get data from [goodreads](https
 
 ### Software requirements for the workshop
 
-1. Browser - Firefox or Chrome  
-2. R Packages  
+1. Browser - Firefox or Chrome    
+2. R and R Studio  
+  a. R - Please install MRO [(link)](https://mran.microsoft.com/open/)  
+  b. R Studio - Please install the preview release [(link)](https://www.rstudio.com/products/rstudio/download/preview/)  
+3. R Packages  
   a. `dplyr`  
   b. `tidyr`  
   c. `rvest`  
@@ -23,3 +26,5 @@ In this workshop, participants are taught how to get data from [goodreads](https
   e. `readr`  
   f. `ggplot2`  
   
+To install a package, open R Studio and enter the following command at the console  
+    > install.packages("packageName")
