@@ -25,6 +25,8 @@ In this workshop, participants are taught how to get data from [goodreads](https
   d. `RSelenium`  
   e. `readr`  
   f. `ggplot2`  
+  g. `tm`  
+  
   
 To install a package, open R Studio and enter the following command at the console  
     > install.packages("packageName")
